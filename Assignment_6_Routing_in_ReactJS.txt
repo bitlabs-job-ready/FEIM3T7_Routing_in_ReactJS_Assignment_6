@@ -1,0 +1,19 @@
+Create a new ReactJS application using the Create React App tool. 
+
+Add routing to your application using the React Router library. 
+
+Create three new components: "Home", "About", and "Contact". 
+
+Use routing to navigate between the three components. The Home component should be the default route. The About and Contact components should be accessible via the "/about" and "/contact" routes, respectively. 
+
+Add a navigation bar to your application that allows users to easily navigate between the three components. 
+
+In the Home component, display a list of products. Each product should have a name, description, and image. 
+
+In the About component, include information about your company or organization. 
+
+In the Contact component, include a form that allows users to contact you. The form should include fields for the user's name, email, and message. 
+
+Use the React Router library to handle the form submissions and redirect users to a "Thank You" page. 
+
+Use the React Router library to handle any errors that may occur during form submission and redirect users to an "Error" page. 
